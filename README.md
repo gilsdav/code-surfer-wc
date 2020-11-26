@@ -2,6 +2,8 @@ This component was bootstrapped with [Direflow](https://direflow.io).
 
 # Code Surfer Wc
 
+WebComponent of [Code Surfer](https://github.com/pomber/code-surfer)
+
 Usage example:
 
 ```html
